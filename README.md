@@ -1,4 +1,5 @@
 Design Patterns Па́ттерны проектирования JavaScript
+
 Порождающие шаблоны проектирования:
 js-53-fabric фабричный метод
 js-54-abstract-fabric абстрактная фабрика
