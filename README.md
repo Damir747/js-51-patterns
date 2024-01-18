@@ -27,3 +27,7 @@ js-71-visitor посетитель
 js-72-memento снимок
 (Interpreter — Интерпретатор)
 (Template method — Шаблонный метод)
+MV-Patterns:
+mvc
+mvp
+mvvm
