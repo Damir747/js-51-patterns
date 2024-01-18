@@ -1,6 +1,7 @@
 Design Patterns Па́ттерны проектирования JavaScript
 
 Порождающие шаблоны проектирования:
+
 js-53-fabric фабричный метод
 js-54-abstract-fabric абстрактная фабрика
 js-55-builder строитель
@@ -8,6 +9,7 @@ js-56-object-pool объектный пул
 js-57-prototype прототип
 (singleton одиночка)
 Структурные шаблоны проектирования:
+
 js-58-adapter адаптер
 js-59-bridge мост
 js-60-decorator декоратор
